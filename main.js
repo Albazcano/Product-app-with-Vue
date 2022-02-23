@@ -55,13 +55,13 @@ Vue.component('product', {
         {
           variantId: 2234,
           variantColor: 'green',
-          variantImage: './assets/vmSocks-green-onWhite.jpg',
+          variantImage: './assets/vmSocks-green.png',
           variantQuantity: 10
         },
         {
           variantId: 2235,
           variantColor: 'blue',
-          variantImage: './assets/vmSocks-blue-onWhite.jpg',
+          variantImage: './assets/vmSocks-blue.jpg',
           variantQuantity: 0
         }
       ],

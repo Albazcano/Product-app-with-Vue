@@ -2,6 +2,10 @@
 
 Throughout this exercise you will learn or practise the fundamentals of Vue while you you build this product page.
 
-## Prerequisites:
+## Prerequisites: 📋
+
 Before doing this exercise you need a foundational knowledge in HTML, CSS and JavaScript.
 
+## Autores ✒️
+
+* **Alba Azcano** - *Trabajo y documentación* - [Albazcano](https://github.com/Albazcano)
